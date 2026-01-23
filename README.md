@@ -1,7 +1,8 @@
 <!-- ===================== HERO SECTION ===================== -->
 <p align="center">
-  <img src="banner.png.png" alt="Khuman Dhakad GitHub Banner" />
+  <img src="banner.png" alt="Khuman Dhakad GitHub Banner" />
 </p>
+
 
 <h1 align="center">Hi 👋, I'm Khuman Dhakad</h1>
 <h3 align="center">Aspiring Software Developer | MCA Student | Building with Code & Creativity</h3>
