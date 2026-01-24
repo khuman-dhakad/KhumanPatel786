@@ -91,7 +91,8 @@
 
 ## 📬 Let’s Connect  
 
-- 🌍 GitHub: [github.com/KhumanPatel786](https://github.com/KhumanPatel786)  
+- 🌍GitHub: https://github.com/khuman-dhakad
+
 
 ---
 
