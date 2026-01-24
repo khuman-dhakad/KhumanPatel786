@@ -1,101 +1,103 @@
-<!-- ===================== HERO SECTION ===================== -->
+<!-- ===================== PROFILE HEADER ===================== -->
 <p align="center">
   <img src="banner.png" alt="Khuman Dhakad GitHub Banner" />
 </p>
 
 <h1 align="center">Hi 👋, I'm Khuman Dhakad</h1>
-<h3 align="center">Aspiring Software Developer | MCA Student | Building with Code & Creativity</h3>
+<h3 align="center">MCA Student | Aspiring Software Developer | C & DSA Enthusiast</h3>
 
 <p align="center">
   <em>
-    I don’t just learn technologies — I build with them, break them, and rebuild them better.
+    I focus on building strong fundamentals, writing clean code, and solving problems step by step.
   </em>
 </p>
 
 <p align="center">
-  <a href="https://github.com/KhumanPatel786">
-    <img src="https://img.shields.io/github/followers/KhumanPatel786?label=Followers&style=for-the-badge" />
+  <a href="https://github.com/khuman-dhakad">
+    <img src="https://img.shields.io/github/followers/khuman-dhakad?label=Followers&style=for-the-badge" />
   </a>
-  <img src="https://img.shields.io/badge/Focus-C%20%7C%20Java%20%7C%20DSA-blue?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Status-Learning%20%26%20Building-success?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Core-C%20%7C%20DSA%20%7C%20Java-blue?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Status-Actively%20Learning-success?style=for-the-badge" />
 </p>
 
 ---
 
 ## 🧠 About Me  
 
-🎓 MCA student with a strong interest in **software development and problem-solving**.  
-💻 Currently mastering **C, Java, and Data Structures & Algorithms**.  
-🚀 Focused on building **real, practical projects** instead of just theory.  
-🎨 I combine **technical thinking with creativity**, which reflects in my projects and content work.  
+🎓 MCA student with a strong interest in **software development and problem-solving**  
+💻 Primary focus on **C programming, Data Structures & Algorithms, and core CS concepts**  
+🚀 I prefer **hands-on projects** and practical learning over theory-only approaches  
+🧩 Actively improving **coding discipline, Git workflow, and technical communication**
 
-> My goal is simple:  
-> **Become a highly skilled developer who can build, scale, and explain systems clearly.**
+**Career Objective:**  
+> To become a reliable software developer with strong fundamentals and real-world project experience.
 
 ---
 
-## 🛠️ Tech Stack  
+## 🛠️ Technical Skills  
 
-### 💻 Languages  
-- C  
-- Java (Foundational → Intermediate)
+### 💻 Programming Languages  
+- C (Intermediate)  
+- Java (Beginner → Intermediate)
 
-### 🧩 Core CS  
+### 🧩 Core Computer Science  
 - Data Structures & Algorithms  
 - Problem Solving  
-- Logical Thinking  
+- Logical & Analytical Thinking  
 
-### 🌐 Web  
+### 🌐 Web Basics  
 - HTML  
 - CSS  
 
 ### 🔧 Tools & Platforms  
 - Git & GitHub  
 - VS Code  
-- GCC / Command Line  
+- GCC / Command Line (Windows)
 
 ---
 
-## 📂 Featured Projects  
+## 📂 Projects  
 
 ### 🧑‍🎓 Student Management System (C)  
-> A console-based system using structures, file handling, and modular programming.  
-**Focus:** logic building, memory understanding, clean C practices.
+- Console-based application using **structures and file handling**  
+- Implements CRUD operations with persistent storage  
+- Focus on modular programming and clean C practices  
 
-### 🌐 Art & Creative Web Projects  
-> Minimal, clean websites built using HTML & CSS for creative experimentation.
+### 🏦 Bank / Management System (C)  
+- Menu-driven program using **functions, pointers, and files**  
+- Emphasis on logic building and memory understanding  
 
-### 🤖 AI Cartoon Content Experiments  
-> Exploring how AI + storytelling + creativity can build engaging digital content.
-
----
-
-## 📈 What I’m Working On Now  
-
-- Strengthening **DSA fundamentals**  
-- Writing **clean, readable C code**  
-- Learning how real software is structured  
-- Improving **technical English & communication**  
-- Preparing for **MNC placement opportunities**
+### 🌐 Web Practice Projects  
+- Simple, responsive static pages using **HTML & CSS**  
+- Focus on layout, structure, and clean markup  
 
 ---
 
-## 🎯 Long-Term Vision  
+## 📈 Currently Working On  
 
-- Become a **strong backend / system-oriented developer**  
-- Build projects that solve real problems  
-- Grow into a developer who can **design + explain systems**  
-- Achieve a high-impact role in a reputed tech company  
+- Strengthening **DSA fundamentals (arrays, strings, searching, sorting)**  
+- Writing **clean and readable C programs**  
+- Improving **Git & GitHub workflow (branches, commits, merges)**  
+- Enhancing **technical English and communication skills**  
+- Preparing for **software development internships**
 
 ---
 
-## 📬 Let’s Connect  
+## 🎯 Career Goals  
 
-- 🌍GitHub: https://github.com/khuman-dhakad
+- Secure a **software development internship** with real-world exposure  
+- Build strong backend and system-level thinking  
+- Contribute meaningfully to development teams  
+- Grow into a dependable software engineer in a reputed organization  
 
+---
+
+## 📬 Connect With Me  
+
+- 🌍 **GitHub:** [khuman-dhakad](https://github.com/khuman-dhakad)
 
 ---
 
 <p align="center">
-  <strong>✨ Consistency beats motivation. Building every day. ✨</strong>
+  <strong>✨ Consistency over shortcuts. Learning and building every day. ✨</strong>
 </p>
